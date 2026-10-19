@@ -38,7 +38,7 @@ $$\mathbf{w}_c = \frac{\Sigma^{-1}\mathbf{1}}{\mathbf{1}^\top \Sigma^{-1}\mathbf
 
 The minimum variance portfolio reduces variance by about 31% compared with the equally weighted portfolio, and its variance is lower than that of any individual asset. Coca-Cola receives the largest weight because it has the lowest individual variance and low covariances with the other assets.
 
-Full report (Spanish): [informe_cartera_minima_varianza.pdf](https://github.com/AlvaroGarcia02/markowitz-minimum-variance-portfolio/blob/main/informe_cartera_minima_varianza.pdf)
+Full report (Spanish): [Composición de portafolios.pdf](https://github.com/AlvaroGarcia02/markowitz-minimum-variance-portfolio/blob/main/Composici%C3%B3n%20de%20portafolios.pdf)
 
 ## Repository structure
 
